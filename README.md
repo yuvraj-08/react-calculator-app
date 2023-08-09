@@ -1,3 +1,3 @@
 # react-calculator-app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/stackblitz-starters-ac81vn)
+[View Demo ⚡️](https://stackblitz-starters-ac81vn.stackblitz.io)
