@@ -6,7 +6,7 @@
 
 body {
   margin: 0;
-  background: #1d3985;
+  background: #331d2c;
 }
 
 .calculator-grid {
@@ -24,12 +24,14 @@ body {
   font-size: 2rem;
   border: 1px solid white;
   outline: none;
-  background-color: rgba(255, 255, 255, 0.75);
+  color: #efe1d1;
+  background-color: #a78295;
+  /* background-color: rgba(255, 255, 255, 0.75); */
 }
 
 .calculator-grid > button:hover,
 .calculator-grid > button:focus {
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: #a78295cc;
 }
 
 .span-two {
