@@ -51,8 +51,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Connect with me:
 
-- Instagram 
-- LinkedIn
-- Website
+- Instagram : https://www.instagram.com/u_v.1707/
+- LinkedIn : https://www.linkedin.com/in/-yuvraj08
+- Website : https://beacons.ai/yuvraj08
 
 Happy coding! 🚀
